@@ -13,6 +13,7 @@ My main focus areas are:
 - ⚡ Performance optimization for smooth gameplay  
 - 🚀 Exploring GPU programming using **CUDA** and **PyTorch**
 
+Other Github: [Ruhaan838](https://github.com/Ruhaan838)
 
 ---
 

@@ -38,7 +38,7 @@ Other Github: [Ruhaan838](https://github.com/Ruhaan838)
 
 ---
 
-## 🎮 Game Development Projects
+## 🎮 Projects
 
 | Project | Type | Links |
 |--------|------|-------|

@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Ruhaan 
 
-<!--
-**Drazestorm/drazestorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I am a passionate **Game Developer** who loves building 3D and 2D games using **Unity and C#**.  
+I enjoy turning ideas into **playable mechanics**, designing clean systems, and writing maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main focus areas are:
+
+- 🎮 Gameplay programming in Unity  
+- 🧩 Object-oriented and modular architecture  
+- 🤖 AI systems such as enemy behavior and pathfinding  
+- ⚡ Performance optimization for smooth gameplay  
+- 🚀 Exploring GPU programming using **CUDA** and **PyTorch**
+
+
+---
+
+## 🛠️ Technical Skills
+
+### 🔹 Game Development, Programming & Technologies
+
+| Unity3D | C# | C++ | Python | Git | GitHub | CUDA | PyTorch |
+|--------|----|------|--------|-----|--------|------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" width="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> |
+
+### 🔹 Game & System Architecture (Highlights)
+
+- 🧩 Object-Oriented Programming (OOPS)  
+- 🧠 Design Patterns  
+- 📦 Scriptable Objects  
+- 🔔 Event Systems  
+- 🤖 AI Pathfinding  
+- 🎯 Raycasting Mechanics
+
+
+### 🔹 Game & System Architecture (Highlights)
+
+- 🧩 Object-Oriented Programming (OOPS)  
+- 🧠 Design Patterns  
+- 📦 Scriptable Objects  
+- 🔔 Event Systems  
+- 🤖 AI Pathfinding  
+- 🎯 Raycasting Mechanics
+
+
+---
+
+## 🎮 Game Development Projects
+
+| Project | Type | Links |
+|--------|------|-------|
+| **Feel The AK47** | First-Person Shooter | 🔗 GitHub: https://github.com/Drazestorm/Feel-The-AK47 • 🎮 itch.io: https://drazestorm.itch.io/feel-the-ak47 |
+| **CashOh Burgers** | 3D Cooking Game | 🔗 GitHub: https://github.com/Drazestorm/CashOh-Burgers • 🎮 itch.io: https://drazestorm.itch.io/cashoh-burgers |
+| **Defend The Protector** | 2D Action RPG | 🔗 GitHub: https://github.com/Drazestorm/Defend-The-Protector • 🎮 itch.io: https://drazestorm.itch.io/defend-the-protector |
+
+---
+
+## 🚀 What I Love Building
+
+- FPS & RPG games  
+- Interface-based gameplay architecture  
+- AI enemies and wave systems  
+- Data-driven systems using ScriptableObjects  
+- Clean & optimized gameplay code  
+
+---

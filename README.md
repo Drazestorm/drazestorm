@@ -41,9 +41,9 @@ My main focus areas are:
 
 | Project | Type | Links |
 |--------|------|-------|
-| **Feel The AK47** | First-Person Shooter | 🔗 GitHub: https://github.com/Drazestorm/Feel-The-AK47 • 🎮 itch.io: https://drazestorm.itch.io/feel-the-ak47 |
-| **CashOh Burgers** | 3D Cooking Game | 🔗 GitHub: https://github.com/Drazestorm/CashOh-Burgers • 🎮 itch.io: https://drazestorm.itch.io/cashoh-burgers |
-| **Defend The Protector** | 2D Action RPG | 🔗 GitHub: https://github.com/Drazestorm/Defend-The-Protector • 🎮 itch.io: https://drazestorm.itch.io/defend-the-protector |
+| **Feel The AK47** | First-Person Shooter |  [Github](https://github.com/Drazestorm/Feel-The-AK47) •  [itch.io](https://drazestorm.itch.io/feel-the-ak47) |
+| **CashOh Burgers** | 3D Cooking Game | [GitHub](https://github.com/Drazestorm/CashOh-Burgers) •  [itch.io](https://drazestorm.itch.io/cashoh-burgers) |
+| **Defend The Protector** | 2D Action RPG | [GitHub](https://github.com/Drazestorm/Defend-The-Protector) • [itch.io](https://drazestorm.itch.io/defend-the-protector) |
 
 ---
 

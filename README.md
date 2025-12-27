@@ -24,17 +24,8 @@ My main focus areas are:
 |--------|----|------|--------|-----|--------|------|---------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" width="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/> |
 
-### 🔹 Game & System Architecture (Highlights)
 
-- 🧩 Object-Oriented Programming (OOPS)  
-- 🧠 Design Patterns  
-- 📦 Scriptable Objects  
-- 🔔 Event Systems  
-- 🤖 AI Pathfinding  
-- 🎯 Raycasting Mechanics
-
-
-### 🔹 Game & System Architecture (Highlights)
+### 🔹 Game & System Architecture
 
 - 🧩 Object-Oriented Programming (OOPS)  
 - 🧠 Design Patterns  
